@@ -1,0 +1,21 @@
+{
+  "name": "blendr-sso-integration",
+  "version": "1.0.0",
+  "description": "SSO using a JWT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Palacios",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "follow-redirects": "^1.14.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2"
+  }
+}
