@@ -11,3 +11,5 @@ oAuth2
 
 Example SSO link using a JWT: https://saaspartner.admin.[ca|us|au].blendr.io/sso?jwt=xxx
 Where xxx is the signed token that must be generated using your tenant's API key.
+
+More info: https://help.qlik.com/en-US/blendr/Content/documentation/sso-integration-for-saas-partners.htm
